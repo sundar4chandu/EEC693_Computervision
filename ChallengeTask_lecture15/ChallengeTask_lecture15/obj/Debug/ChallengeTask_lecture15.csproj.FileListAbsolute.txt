@@ -1,0 +1,16 @@
+c:\users\sundar\documents\visual studio 2015\Projects\ChallengeTask_lecture15\ChallengeTask_lecture15\bin\Debug\ChallengeTask_lecture15.exe.config
+c:\users\sundar\documents\visual studio 2015\Projects\ChallengeTask_lecture15\ChallengeTask_lecture15\bin\Debug\ChallengeTask_lecture15.exe
+c:\users\sundar\documents\visual studio 2015\Projects\ChallengeTask_lecture15\ChallengeTask_lecture15\bin\Debug\ChallengeTask_lecture15.pdb
+c:\users\sundar\documents\visual studio 2015\Projects\ChallengeTask_lecture15\ChallengeTask_lecture15\bin\Debug\Microsoft.Kinect.dll
+c:\users\sundar\documents\visual studio 2015\Projects\ChallengeTask_lecture15\ChallengeTask_lecture15\bin\Debug\Microsoft.Kinect.xml
+c:\users\sundar\documents\visual studio 2015\Projects\ChallengeTask_lecture15\ChallengeTask_lecture15\obj\Debug\ChallengeTask_lecture15.csprojResolveAssemblyReference.cache
+c:\users\sundar\documents\visual studio 2015\Projects\ChallengeTask_lecture15\ChallengeTask_lecture15\obj\Debug\MainWindow.g.cs
+c:\users\sundar\documents\visual studio 2015\Projects\ChallengeTask_lecture15\ChallengeTask_lecture15\obj\Debug\App.g.cs
+c:\users\sundar\documents\visual studio 2015\Projects\ChallengeTask_lecture15\ChallengeTask_lecture15\obj\Debug\ChallengeTask_lecture15_MarkupCompile.cache
+c:\users\sundar\documents\visual studio 2015\Projects\ChallengeTask_lecture15\ChallengeTask_lecture15\obj\Debug\ChallengeTask_lecture15_MarkupCompile.lref
+c:\users\sundar\documents\visual studio 2015\Projects\ChallengeTask_lecture15\ChallengeTask_lecture15\obj\Debug\MainWindow.baml
+c:\users\sundar\documents\visual studio 2015\Projects\ChallengeTask_lecture15\ChallengeTask_lecture15\obj\Debug\ChallengeTask_lecture15.g.resources
+c:\users\sundar\documents\visual studio 2015\Projects\ChallengeTask_lecture15\ChallengeTask_lecture15\obj\Debug\ChallengeTask_lecture15.Properties.Resources.resources
+c:\users\sundar\documents\visual studio 2015\Projects\ChallengeTask_lecture15\ChallengeTask_lecture15\obj\Debug\ChallengeTask_lecture15.csproj.GenerateResource.Cache
+c:\users\sundar\documents\visual studio 2015\Projects\ChallengeTask_lecture15\ChallengeTask_lecture15\obj\Debug\ChallengeTask_lecture15.exe
+c:\users\sundar\documents\visual studio 2015\Projects\ChallengeTask_lecture15\ChallengeTask_lecture15\obj\Debug\ChallengeTask_lecture15.pdb

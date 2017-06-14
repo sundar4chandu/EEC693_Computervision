@@ -1,0 +1,17 @@
+c:\users\sundar\documents\visual studio 2015\Projects\Challengetask_lecture12\Challengetask_lecture12\bin\Debug\Challengetask_lecture12.exe.config
+C:\Users\Sundar\Documents\Visual Studio 2015\Projects\Challengetask_lecture12\Challengetask_lecture12\bin\Debug\Challengetask_lecture12.exe
+C:\Users\Sundar\Documents\Visual Studio 2015\Projects\Challengetask_lecture12\Challengetask_lecture12\bin\Debug\Challengetask_lecture12.pdb
+C:\Users\Sundar\Documents\Visual Studio 2015\Projects\Challengetask_lecture12\Challengetask_lecture12\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Sundar\Documents\Visual Studio 2015\Projects\Challengetask_lecture12\Challengetask_lecture12\bin\Debug\Microsoft.Speech.dll
+C:\Users\Sundar\Documents\Visual Studio 2015\Projects\Challengetask_lecture12\Challengetask_lecture12\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Sundar\Documents\Visual Studio 2015\Projects\Challengetask_lecture12\Challengetask_lecture12\obj\Debug\Challengetask_lecture12.csprojResolveAssemblyReference.cache
+C:\Users\Sundar\Documents\Visual Studio 2015\Projects\Challengetask_lecture12\Challengetask_lecture12\obj\Debug\MainWindow.g.cs
+C:\Users\Sundar\Documents\Visual Studio 2015\Projects\Challengetask_lecture12\Challengetask_lecture12\obj\Debug\App.g.cs
+C:\Users\Sundar\Documents\Visual Studio 2015\Projects\Challengetask_lecture12\Challengetask_lecture12\obj\Debug\Challengetask_lecture12_MarkupCompile.cache
+C:\Users\Sundar\Documents\Visual Studio 2015\Projects\Challengetask_lecture12\Challengetask_lecture12\obj\Debug\Challengetask_lecture12_MarkupCompile.lref
+C:\Users\Sundar\Documents\Visual Studio 2015\Projects\Challengetask_lecture12\Challengetask_lecture12\obj\Debug\MainWindow.baml
+C:\Users\Sundar\Documents\Visual Studio 2015\Projects\Challengetask_lecture12\Challengetask_lecture12\obj\Debug\Challengetask_lecture12.g.resources
+C:\Users\Sundar\Documents\Visual Studio 2015\Projects\Challengetask_lecture12\Challengetask_lecture12\obj\Debug\Challengetask_lecture12.Properties.Resources.resources
+C:\Users\Sundar\Documents\Visual Studio 2015\Projects\Challengetask_lecture12\Challengetask_lecture12\obj\Debug\Challengetask_lecture12.csproj.GenerateResource.Cache
+C:\Users\Sundar\Documents\Visual Studio 2015\Projects\Challengetask_lecture12\Challengetask_lecture12\obj\Debug\Challengetask_lecture12.exe
+C:\Users\Sundar\Documents\Visual Studio 2015\Projects\Challengetask_lecture12\Challengetask_lecture12\obj\Debug\Challengetask_lecture12.pdb
