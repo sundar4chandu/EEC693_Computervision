@@ -1,0 +1,23 @@
+﻿<Window x:Class="ChallengeTask2_Lecture8.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ChallengeTask2_Lecture8"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="1360.775" Width="734" Loaded="Window_Loaded">
+    <Grid Margin="0,0,3.333,0.333">
+        <Canvas x:Name="canvas1" Background="Transparent" HorizontalAlignment="Left" Height="480" Margin="10,10,0,0" VerticalAlignment="Top" Width="640">
+            <Ellipse x:Name="lefthand" Fill="GreenYellow" Height="20" Canvas.Left="752"  StrokeThickness="6" Width="20" Loaded="Ellipse_Loaded" Canvas.Top="133"/>
+            <Ellipse x:Name="righthand" Fill="GreenYellow" Height="30" Canvas.Left="742"  StrokeThickness="6" Width="30" Loaded="Ellipse_Loaded" Canvas.Top="86"/>
+        </Canvas>
+        <Canvas x:Name="canvas" Background="Transparent" HorizontalAlignment="Left" Height="480" VerticalAlignment="Top" Width="640" Margin="10,6,0,0">
+            <Button x:Name="button" Content="Clear" Canvas.Left="38" Canvas.Top="30" Width="75" Height="22" />
+            <Button x:Name="red" Content="Red" Canvas.Left="38" Canvas.Top="92" Width="75" Height="22" Background="Red" />
+            <Button x:Name="green" Content="Green" Width="75" Canvas.Left="38" Background="Green" Canvas.Top="140" Height="22" />
+            <Button x:Name="blue" Content="Blue"  Background="Blue" Canvas.Left="38" Canvas.Top="188" Width="75" Height="22"  RenderTransformOrigin="0.62,3.308" />
+            <Button x:Name="yellow" Content="Yellow" Background="Yellow" Canvas.Left="38" Canvas.Top="229" Width="75" Height="22" />
+        </Canvas>
+        <Canvas x:Name="canvas2" Background="Transparent" Margin="10,2,722.667,849"/>
+    </Grid>
+</Window>

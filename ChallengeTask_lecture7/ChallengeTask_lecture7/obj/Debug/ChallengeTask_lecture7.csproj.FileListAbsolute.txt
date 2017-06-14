@@ -1,0 +1,16 @@
+c:\users\sundar\documents\visual studio 2015\Projects\ChallengeTask_lecture7\ChallengeTask_lecture7\bin\Debug\ChallengeTask_lecture7.exe.config
+c:\users\sundar\documents\visual studio 2015\Projects\ChallengeTask_lecture7\ChallengeTask_lecture7\bin\Debug\ChallengeTask_lecture7.exe
+c:\users\sundar\documents\visual studio 2015\Projects\ChallengeTask_lecture7\ChallengeTask_lecture7\bin\Debug\ChallengeTask_lecture7.pdb
+c:\users\sundar\documents\visual studio 2015\Projects\ChallengeTask_lecture7\ChallengeTask_lecture7\bin\Debug\Microsoft.Kinect.dll
+c:\users\sundar\documents\visual studio 2015\Projects\ChallengeTask_lecture7\ChallengeTask_lecture7\bin\Debug\Microsoft.Kinect.xml
+c:\users\sundar\documents\visual studio 2015\Projects\ChallengeTask_lecture7\ChallengeTask_lecture7\obj\Debug\MainWindow.g.cs
+c:\users\sundar\documents\visual studio 2015\Projects\ChallengeTask_lecture7\ChallengeTask_lecture7\obj\Debug\App.g.cs
+c:\users\sundar\documents\visual studio 2015\Projects\ChallengeTask_lecture7\ChallengeTask_lecture7\obj\Debug\ChallengeTask_lecture7_MarkupCompile.cache
+c:\users\sundar\documents\visual studio 2015\Projects\ChallengeTask_lecture7\ChallengeTask_lecture7\obj\Debug\ChallengeTask_lecture7_MarkupCompile.lref
+c:\users\sundar\documents\visual studio 2015\Projects\ChallengeTask_lecture7\ChallengeTask_lecture7\obj\Debug\MainWindow.baml
+c:\users\sundar\documents\visual studio 2015\Projects\ChallengeTask_lecture7\ChallengeTask_lecture7\obj\Debug\ChallengeTask_lecture7.g.resources
+c:\users\sundar\documents\visual studio 2015\Projects\ChallengeTask_lecture7\ChallengeTask_lecture7\obj\Debug\ChallengeTask_lecture7.Properties.Resources.resources
+c:\users\sundar\documents\visual studio 2015\Projects\ChallengeTask_lecture7\ChallengeTask_lecture7\obj\Debug\ChallengeTask_lecture7.csproj.GenerateResource.Cache
+c:\users\sundar\documents\visual studio 2015\Projects\ChallengeTask_lecture7\ChallengeTask_lecture7\obj\Debug\ChallengeTask_lecture7.exe
+c:\users\sundar\documents\visual studio 2015\Projects\ChallengeTask_lecture7\ChallengeTask_lecture7\obj\Debug\ChallengeTask_lecture7.pdb
+c:\users\sundar\documents\visual studio 2015\Projects\ChallengeTask_lecture7\ChallengeTask_lecture7\obj\Debug\ChallengeTask_lecture7.csprojResolveAssemblyReference.cache
